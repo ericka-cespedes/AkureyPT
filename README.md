@@ -3,11 +3,13 @@ Prueba Técnica de Akurey
 
 The proposed solution for this problem implements the Abstract Factory pattern. This pattern was used because it can be used to create cross-platform user interface (UI) elements without coupling client code to specific UI classes, while keeping all elements created consistent with the selected operating system.
 
+The expected result is to be as follows:
 ![alt text](https://github.com/ericka-cespedes/AkureyPT/blob/main/Abstract%20Factory.png)
 
 NOTE:
 The class called Client in the Diagram.png file is actually called Akurey in the program.
 
+Then, the Abstract Factory was implemented respecting the MVC Pattern. Further additions can be made according to the complexity of the program.
 ![alt text](https://github.com/ericka-cespedes/AkureyPT/blob/main/Diagram.png)
 
 Pros:
